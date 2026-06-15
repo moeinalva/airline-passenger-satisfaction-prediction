@@ -141,7 +141,7 @@ A comprehensive exploratory data analysis was conducted to better understand pas
 Box plots were used to investigate feature distributions and identify potential outliers across numerical variables.
 
 <p align="center">
-  <img src="images/feature_boxplot.png" width="90%">
+  <img src="images/features_bboxplot.png" width="90%">
 </p>
 
 ### Key Insights
