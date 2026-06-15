@@ -346,7 +346,7 @@ jupyter notebook
 
 ## Moein Alva
 
-Master's Student | Machine Learning & Deep Learning Enthusiast
+Machine Learning & Deep Learning Enthusiast
 
 ### Areas of Interest
 
